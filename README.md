@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jorgepiconjr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jorgepiconjr&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepiconjr&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepiconjr&theme=dark&layout=compact&langs_count=10)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jorgepiconjr&theme=radical&no-frame=true&no-bg=false&margin-w=4)
