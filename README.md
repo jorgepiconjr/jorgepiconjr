@@ -40,8 +40,9 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=jorgepiconjr&theme=dark&hide_border=false)<br/>
+<!-- # 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=jorgepiconjr&theme=dark&hide_border=false)<br/> 
+-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepiconjr&theme=dark&layout=compact&langs_count=7) -->
 
 <!-- ## 🏆 GitHub Trophies
