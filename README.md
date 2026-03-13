@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi there! I'm Jorge, a Full Stack Software Engineer (B.Sc. Computer Science) & M.Sc. Media Computer Science Student at TU Dresden, living in Dresden, Germany. My nationalities Italian/Venezuelan.<br>💡 Passionate about hard work, discipline, teamwork, problem-solving, learning and continuous improvement .<br>💻 Specialized in Backend, Frontend, Data Bases, Networks, REST API, UI/UX, Web development, AI, architecture, design.<br>🌍 Always looking for exciting projects and Open Source collaborations.<br>✨ I consider myself team player, disciplined, engaged, focused, curious, extroverted, active, creative, collaborative, open-minded.<br>📫 Let’s connect! You can reach me at jorgepiconjr@gmail.com<br>🗣️ English (B2), German (C1), Spanish (mother language)
+👋 Hi there! I'm Jorge, a Full Stack Software Engineer (B.Sc. Computer Science) & M.Sc. Media Computer Science Student at TU Dresden, living in Dresden, Germany. My nationalities Italian/Venezuelan.<br>💡 Passionate about hard work, discipline, teamwork, problem-solving, learning and continuous improvement .<br>💻 Specialized in Backend, Frontend, Data Bases, Networks, REST API, UI/UX, Web development, AI, CI/CD, architecture, design.<br>🌍 Always looking for exciting projects and Open Source collaborations.<br>✨ I consider myself team player, disciplined, engaged, focused, curious, extroverted, active, creative, collaborative, open-minded.<br>📫 Let’s connect! You can reach me at jorgepiconjr@gmail.com<br>🗣️ English (B2), German (C1), Spanish (mother language)
 
 
 ## 🌐 Socials:
@@ -22,6 +22,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -29,6 +30,8 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-%231C64F2.svg?style=for-the-badge&logoColor=white)
 <br>
 #### Data Base 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -36,12 +39,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 <br>
 #### Others 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![UV](https://img.shields.io/badge/uv-%232D3139.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Astah UML](https://img.shields.io/badge/Astah_UML-%23005B9A.svg?style=for-the-badge&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <!-- # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=jorgepiconjr&theme=dark&hide_border=false)<br/> 
